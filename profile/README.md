@@ -1,12 +1,10 @@
 <div align="center">
 
-# Fenix Motion Systems
-
-**Software engineering. Hardware engineering. No compromises.**
+<img src="assets/banner.svg" alt="Fenix Motion Systems — simracing, software, hardware, audio DSP" width="100%">
 
 Sim racing hardware, desktop software and audio DSP — designed, built and tested in-house.
 
-[fenixmotionsystems.com](https://fenixmotionsystems.com)
+**[fenixmotionsystems.com](https://fenixmotionsystems.com)**
 
 </div>
 
